@@ -1,0 +1,1132 @@
+3	numero verde aqp
+4	orari posso chiamare numero verde
+5	può telefonare cellulare numero verde
+8	sito web aqp
+41	acqua potabile
+43	morte titolare contratto faccio
+46	contratto decesso
+48	contratto morte morte
+49	numero lettura contatore
+53	numero verde aqp
+91	attivare domiciliazione bancaria
+93	modulo attivazione bancaria
+95	procedura devo eseguire chiedere allaccio abitazione civile
+110	domiciliazione bancaria
+112	posso richiedere contratto
+121	pagamento elettronico bolletta
+137	ricevuto 2 bollettini fattura
+138	tariffa acqua
+202	rimborso avviene
+203	tariffe acqua
+208	richiedere rateizzazione
+217	analisi acqua
+225	vorrei attivare allerta forti consumi
+236	domiciliazione fatture
+237	pagare fatture online
+238	trovo modello domiciliazione
+246	consumo presunto
+248	può intestata utenza acqua
+250	intestata utenza domestica condominiale
+256	richiede controllo contatore
+260	rateizzare fattura
+261	effettua lettura contatore
+268	effettuare subentro
+269	effettuare voltura
+271	sepa direct debit
+272	desidero domiciliazione bancaria
+274	subentro contrattuale
+275	subentro contrattuale
+277	domiciliare fattura
+278	serve subentro
+281	qual costo acqua
+283	modulo domiciliazione fatture
+284	costa litro acqua potabile
+297	costa acqua
+299	avviene lettura contatore
+300	leggo contatore
+301	costa allacciamento
+303	qual numero verde aqp
+307	legge contatore
+308	può richiedere controllo qualità acqua
+311	controllo qualità acqua
+313	uffici pubblici aqp
+314	sostituire contatore illeggibile
+342	costa acqua tariffe
+345	posso fatture telematica cartacea
+349	pagare fattura
+350	pagare bollettino
+355	sapendo codice cliente sapere numero contratto
+358	costo acqua
+361	pagare bollettino aqp
+366	pago bolletta
+368	pagare fattura
+376	ritengo importo fattura esagerato
+377	auto lettura
+380	gestisce acquedotto comune castrignano capo
+387	verifica contatore
+392	subentro decesso
+400	spostare contatore
+401	comunico lettura contatore
+404	modalità posso pagare bolletta
+405	posso pagare bolletta
+407	posso pagare fattura
+409	costo subentro
+418	posso contattare aqp
+420	richiedo recesso contratto
+444	posso contratto
+448	contatto aqp
+449	emissione bolletta online
+460	documenti subentro
+462	orari aqp
+464	bonus idrico
+469	fattura ricevuta
+470	vuol deposito cauzionale
+484	può conservare acqua bottiglie plastica
+485	autolettura
+493	richiedere nuova utenza
+530	domanda allacciamento fogna
+560	posso recedere
+576	pagamento bolletta
+580	contratto
+585	rinnovo contratto fornitura
+587	documenti subentro
+605	allacciamento
+610	bonus idrico
+618	può chiedere rescissione titolare deceduto
+625	scarico vasca imhoff
+629	qual tariffa vigente consumo domestico
+630	bonus
+633	bonus
+634	bonus
+635	bonus idrico
+636	allacciare acqua
+646	allaccio
+648	chiedere rateizzazione
+649	chiedere subentro
+652	autocertificazione scarico acque assimilabili domestiche
+653	calcolo deposito cauzionale
+676	rione libertà acqua viene tolta 15,00 perchè
+684	pressione acqua
+692	domiciliare fattura
+706	posso allacciamento
+707	indirizzo cliente errato
+764	riusciamo 2 richiedere attivazione nuova fornitura presicce lecce aiuto
+773	variazione domiciliazione bancaria
+775	bisogna voltura
+788	deposito cauzionale
+795	tempi installazione
+803	voltura contatore
+804	assegno rimborso intestato persona deceduta
+806	domanda subentro contratto esistente pesona deceduta parecchio
+808	scaricare modulo domiciliazione
+809	codice ateco
+810	carta servizi
+811	disponibile carta servizio
+815	autorizza fossa ihmoff
+816	rilascia autorizzazione fossa imhoff
+817	possibile richiedere taratura contatore
+820	ricevuto fattura
+838	posso attivare domiciliazione
+841	tariffa quota fissa
+842	contatore presente interno abitazione può sostituito autonomamente operazione dovrà effettuata personale acquedotto pugliese
+847	buongiorno 3 utenze contatore far diventare 3 contatori funziona ammonta spesa
+857	sportello metallo contatore
+858	calcolato deposito cauzionale
+859	devo revocare domiciliazione bancaria
+864	voltura contratto
+872	richiesta subentro
+892	arriva acqua
+910	qual calcolo cauzione
+914	posso pagare bollette
+926	segnalazione guasti
+932	richiesta nuova utenza
+941	posso segnalare guasto
+942	numero utilizzare segnalare guasto
+948	chiede attacco
+955	rimozione acqua fax
+960	prezzo acqua mq
+963	inquilino paga deposito cauzionale
+1001	devo voltura contatore devo fare
+1004	posso pagare bolletta
+1014	costo allaccio
+1020	qual numero verde
+1025	qual pressione acqua
+1037	qual tariffa
+1045	posso cambiare intestazione contratto
+1050	lettura contatore
+1077	x domiciliazione fatture bisogno codice sepa
+1098	posso ricevere fatture online eliminando cartaceo
+1117	riesco gestire bonus idrico
+1141	proteggere contatori gelo
+1142	costa litro acqua rubinetto
+1143	abito condominio 5 famiglie scadenza bolletta condomini vuole pagare quota possono 4 pagare bollettino postale
+1144	fax messa mora
+1152	visualizzare fattura on line
+1162	posso vedere bollette aqp online
+1167	bisogno aiuto
+1170	posso segnalare guasto numero verde
+1187	fattura elevata
+1189	vorrei conoscere pagamenti fatture
+1209	pagare bollette
+1210	costa voltura
+1214	devo pagare
+1217	paga bolletta on-line
+1219	accede sito on-line
+1221	intende modifica contrattuale
+1222	prevede recesso contrattuale
+1223	intende uso domestico
+1224	intende uso commerciale
+1225	qual iter recesso
+1229	devo allacciamento staccarmi contatore
+1232	paga portella contatore
+1233	costi subentro intestatario contratto
+1234	allaccio fognatura può richiesto locatario proprietario immobile
+1238	ricevuto fatture devo fare
+1265	distaccarsi allaggiameno contratto condominiale x singolo condomino
+1269	casi previsto recesso contrattuale
+1276	moduli contrattuali
+1278	intende uso industriale
+1279	intende uso pubblico
+1289	intende uso antincendio
+1293	intende uso provvisorio
+1305	può destinatario contratto
+1307	fontane pubbliche richiesto allaccio rete fognaria
+1319	utente intende realizzare acqua obbligato allacciarsi rete fognaria
+1320	utente intende realizzare acqua tipologia uso somministrazione diritto
+1322	vantaggi attivazione impianto multiplo
+1324	dati necessari allacciamento uso commerciale
+1361	dura contratto
+1369	voltura intestatario decesso
+1388	decesso titolare contratto
+1396	calcolo consumo
+1399	costa contratto
+1405	comunicazione pagamento fattura
+1407	pagare bolletta
+1432	sì può bere acqua
+1438	bolletta cara
+1441	paga bolletta online
+1447	posso sospendere servizio
+1459	richiedere allacciamento singolo condominio
+1461	posso controllare bollette
+1464	pagato morosità ripristina erogazione acqua
+1478	costo nuova fornitura acqua
+1479	addebito consumi conto postale
+1486	acqua
+1498	contratto
+1500	dovrei pagare fatture estero germania vorrei iban bic possibile
+1514	escono scarafaggi tombini
+1515	posso vedere bolletta
+1519	pagato volte stessa fattura
+1524	bolletta trovo scritto detrazione bonus idrico
+1529	pagamento estero
+1531	bolletta online
+1532	sapere allaccio
+1533	tempi impianto
+1538	contatore funziona
+1545	pagare carta credito
+1547	fattura online iscrizione
+1551	posso scarafaggi strada
+1570	numero fax comunicare pagamenti
+1572	sospensione fornitura comunicare pagamentipagamenti
+1575	riesco entrare sito nsersco username et password esatti
+1576	entrato www.aqp.it risultato dati longin validi
+1577	piano garantita pressione acqua
+1583	cambio intestazione
+1584	arriva bolletta
+1588	vorrei attivare servizio on-line aqp
+1597	attivare domiciliazione
+1599	posso attivare domiciliazione fatture
+1600	cambio intestazione fornitura subentro 
+1603	riesco farmi mandare bolletta web
+1604	riesco iscrivermi farmi mandare bolletta web
+1609	trovo modulo sepa
+1610	cambio intestazione fornitura subentro costi
+1617	codice cliente aqp
+1627	cambiare intestazione
+1669	posso procurarmi modulo sottoscrivere domiciliazione fatture
+1670	smarrito bollettino pagamento posso pagare fattura
+1671	tariffe servizio idrico acquedotto puglia
+1673	esce acqua sporca
+1674	archivio fatture emesse accede
+1690	viene calcolato consumo
+1693	durezza acqua
+1695	dare autolettura
+1697	riesco visualizzare fatture on-line
+1701	prevede contratto aqp
+1704	fattura online
+1707	mancanza acqua taranto
+1708	potere richiedere contatore acqua
+1712	posso inoltrare richiesta allaccio
+1716	segnalare guasto
+1717	segnalare guasto email
+1732	domanda x bonus idrico
+1733	staccarmi contatore condominio
+1736	visualizzare bollette tramite app
+1737	intende uso antincendio
+1738	consiste recesso
+1759	scadenza prossima fattura
+1761	posso visualizzare bolletta
+1765	comunicazione fattura pagata
+1781	servizio online
+1782	elenco bollette aqp
+1783	visualizza conto bolletta
+1784	posso accedere fatture
+1789	n verde bonus idrico
+1790	n verde bonus idrico verifica domanda
+1797	possibile bolletta annua assenza lunga estero
+1799	pagamento fattura on line
+1803	rateizzazione bollette
+1807	bonus idrico esito domanda
+1809	pagamento bollette tramite paypal grazie
+1813	sapere matricola contatore
+1820	inoltrare richiesta allacciamento
+1822	procedurea allaccoiamento
+1826	posso cambiare domiciliazione bancaria
+1827	individuo codice contatore
+1838	dati contratto
+1842	richiesta sostituzione misuratore
+1853	intende uso navi natenti
+1855	obbligatorio allacciarsi pubblica fognatura
+1871	qual iter procedura richiedere allacciamento
+1872	apposito modulo domiciliazione bancaria
+1877	documenti necessari perfezionare subentro modifica contrattuale uso domestico
+1879	domiciliare bolletta
+1880	vedere bollette
+1890	dati documenti necessari richiedere recesso cessazione
+1891	significa bolletta quota fissa
+1894	risolvere problema blatte
+1899	può accedere inoltro domanda bonus
+1901	vorrei effettuare pagamento tramite banca provato tramite area clienti riuscito grazie
+1906	prossima bollette
+1913	bollette online
+1915	richiedo riparazione contatore
+1916	rotto sportello contatore posso fare
+1917	proteggo contatore gelo
+1919	leggere contatore
+1923	inoltrare segnalazione guasto
+1926	dati necessari uso industriale
+1927	ricevo bollette aprile 2015
+1928	vorrei sapere pratica allaccio
+1929	leggere contatore
+1943	qual costo allaccio
+1970	arriva acqua
+1972	posso mantenere acqua pulita
+1985	richiedo allacciamento
+2020	posso pagare fatture
+2049	posso pulire acqua
+2050	figlia acquisterà bari 22 prossimo procedere intestazione utenza documenti occorrono tempi tecnici necessari
+2113	viene acqua
+2114	allacciamento
+2146	pagare fatture on line
+2149	posso leggere contatore
+2159	tariffe 2015 acqua
+2161	codice cliente smarrito
+2168	scade bando bonus
+2170	comunicare autolettura
+2173	posso modificare indirizzo residenza indicato fattura
+2174	posso comunicare lettura
+2176	attiva domiciliazione bancaria
+2179	posso richiedere rateizzazione
+2182	documenti occorrono subentro
+2184	rimborso fattura
+2187	usufruire bonus
+2189	contestare perdita contatore
+2190	devo pagare acconto
+2197	perchè mandate lettura stima
+2200	numero informazioni fatture
+2201	documenti servono subentro
+2202	effettuo reclamo
+2204	posso richiedere rimborso assegno
+2209	cambio intestazione assegno
+2214	chiedete pagare fattura pagata
+2218	mancanza acqua lucera
+2219	pagamento parziale bollette arretrate
+2222	comunicare lettura
+2223	numero guasti
+2224	devo attivare domicliazione
+2228	domiciliazione revocare
+2230	cambiare domiciliazione bancaria
+2231	durezza acqua
+2239	posso variare iban
+2240	posso variare intestazione contratto
+2241	comunicazione autolettura
+2245	posso inoltrare verifica contatore
+2246	posso reclamo consumo presunto
+2249	tempi sdoppiamento
+2252	tariffe mc
+2262	posso subentro
+2271	equivale 1mq
+2273	sapere richiesta rateizzazione ultima fattura accettata
+2279	depurazione fattura
+2282	fuoriesce fogna tombino
+2287	acqua rubinetto può bere
+2288	paga deposito cauzionale
+2292	carta servizi richiesta subentro inoltrata ite call center dovrebbe gestita 15 gg inve
+2296	letto sito installando contatore costo crica 306 euro iva ipotesi fattibile grazie
+2297	valore durezza acqua
+2300	posso comunicare pagamento
+2301	verifica contatori
+2303	posso staccarmi contatore condominio
+2304	salve vorrei sapere tempistica ricezione fatture
+2305	informazioni pagamenti effettuati
+2307	chiusura contratto
+2309	costa allaccio
+2312	qual qualità acqua
+2313	costa subentro
+2314	viene emessa fattura
+2319	verifica bonus
+2320	titolare fattura credito posso incassarla titolare fornitura grazie
+2321	posso effettuare cessazione
+2322	valore durezza acqua qualità
+2326	numeri verdi
+2327	numeri telefono
+2333	effettua ripartizione acqua condominio
+2336	pagamento fatture addebito cc
+2339	consumo presunto
+2341	ottenere rimborso intestatario
+2344	devo pagare consumo stimato
+2349	vorrei parlare operatore riguardo credito modo recupero
+2353	cambio intestatario utenza
+2354	costo 62 metri cubi acqua
+2357	buongiorno domiciliazione vorrei sapere iter effettuare cambio cc bancoposta continuare pagare tramite prelievo cc intestato grazie
+2359	buongiorno vorrei sapere iter effettuare cambio conto corrente bancoposta continuare pagare tramite prelievo cc intestato grazie
+2360	far arrivare fattura indirizzo
+2361	vorrei sapere costo allacciamento pozzetto esistente masdea taranto
+2362	posso richiedere riparazione contatore
+2363	posso proteggere contatore freddo
+2364	pago fattura bollettino
+2365	posso pagare estero
+2366	posso ridurre numero impegnative contrattuali
+2367	posso copia fattura
+2369	posso copia estratto conto
+2370	posso variare indirizzo recapito fatture
+2372	posso effettuare subentro
+2374	decesso obbligato effettuare subentro
+2375	entro avviene intervento segnalazione guasto
+2376	posso revocare domiciliazione bancaria
+2377	abito regione puglia connessione internet posso procurarmi modulo domiciliazione
+2384	modifiche contrattuale
+2385	modifica recapito bollette
+2387	posso incassare credito
+2388	numro verde verde riparaziopne
+2390	servizio offerto acquedotto pugliese
+2391	succede posso presente appuntamento
+2396	perduto bollettino pagamento devo fare
+2397	deposito cauzionale
+2398	subentro
+2400	chiedere intervento sifone
+2404	tariffe
+2407	lettura contatore
+2408	costa allaccio pozzetto già esistente
+2409	dismettere contratto
+2410	attivare domiciliazione
+2411	paghi 2 rate viene sospeso servizio idrico
+2413	comunicare lettura
+2415	rettifica fatturazione
+2416	rescissione contratto
+2427	verificare fattura pagata
+2431	abito quinto piano arriva acqua
+2432	posso bere acqua rubinetto
+2440	richiedere allacciamento rete idrica
+2442	ricevuto ultima bolletta
+2443	tariffe 2015
+2449	richiede allacciamento
+2454	acqua potabile
+2456	posso trovare carta servizi
+2458	posso rateizzare fattura
+2461	posso domiciliare bolletta
+2462	chiusura morosità
+2463	fatture iva differita
+2464	spostamento contatore
+2512	sdoppiamento contatore
+2514	comunico autolettura
+2519	trovo sportello aqp vicino
+2520	qual sportello aqp utenza
+2521	metri cubi spettano legge
+2522	qundo verra erogato bonus 2014
+2523	canone acqua fogna sett 2015
+2524	richiesta distaccarsi contatore condominiale richiedere allaccio indipendente
+2527	richiesta distaccarsi contatore condominiale allaccio
+2529	posso inviare mail modulo variazione addebito cc fatture
+2530	bonus
+2535	pagare bolletta
+2536	devo autolettura
+2569	modalità pagare fattura
+2577	sospendere contratto
+2579	possibile trasferire recapito utente trova anziani indirizzo
+2587	effettua autolettura
+2589	qual numero informazioni
+2590	posso effettuare voltura
+2591	posso richiedere copia fiscale fattura
+2596	bolletta recapitata
+2603	fattura recapitata
+2604	succede subentro cliente deceduto
+2605	ricevuto bolletta conguaglio 426.69 son mancata luglio agosto settembre consumare mai
+2606	significa fattura acconto
+2608	posso richiedere rimborso
+2612	posso variare uso contratto
+2614	posso variare recapito fattura
+2618	manca acqua posso fare
+2620	calcola deposito cauzionale
+2622	esce acqua strada faccio
+2623	produce interessi deposito cauzionale
+2624	chiuso acqua devo fare
+2625	comunicare lettura
+2626	vorrei conoscere valenzano grado durezza acqua
+2627	posso registrare sportello online
+2628	buonasera desidero sapere base queli riferimenti normativi esercizi commerciali pubblici soprattutto de dediti somministrazione alimenti bevande poste piano terra devono dotarsi autonomo allaccio rete idrica comunale dipendere impianto condominiale
+2629	chiuso acqua devo fare
+2636	conguaglio
+2637	orario front office bari
+2646	costa litro acqua
+2647	civico errato
+2651	cambiare domiciliazione
+2655	metri cubi inizia fascia eccedenza
+2663	posso richiedere controllo contatore
+2665	notizie concorsi
+2666	perdita strada fare
+2667	allagamento cantina fogna posso fare
+2673	attuale contratto intestato madre deceduta intestare contratto nome grazie
+2675	viene effettuato conguaglio
+2676	conguaglio avviene
+2689	cessazione fornitura
+2695	volturare utenza
+2697	pagare bolletta
+2703	uffici lecce
+2708	rateizzare fattura
+2711	eccedenza acqua
+2713	uffici
+2716	tariffe puglia
+2718	uffici aqp
+2720	guasto contatore devo fare
+2722	numero bancario pagare fattura
+2723	fax commerciale
+2724	indirizzo pec
+2725	intestare contratto commerciale
+2731	fatture emesse anno
+2732	richiedere contratto acqua
+2733	cessare contratto
+2734	caratteristiche acqua beviamo
+2735	salve affitato 1 luglio 2015 ricevuto bolletta
+2736	pagare estero
+2737	contratto idrico commerciale
+2741	contratto
+2744	colonne scarico condominiali allacciate altra condotta fognante paga costi
+2749	bonus idrico
+2769	leggere contatore
+2783	posso richiedere disinfestazione scarafaggi
+2784	tariffe puglia
+2786	posso pagare fattura estero
+2788	modalità pagamento fatture
+2790	posso inoltrare richista allacciamenmto
+2792	posso richiedere allacciamento
+2795	posso accedere bonus idrico
+2796	acqua perché
+2798	contratto
+2808	qual numero verde acquedotto pugliese
+2809	posso pagare bollette coop
+2810	posso pagare fatture coop
+2811	posso pagare coop
+2813	locorotondo montanaro 8 lunedi 18 ottobre pressione bassa riuscire erogare acqua rubinetti sicuri ricevere risposta merito porgo distinti saluti
+2814	uso occasionale provvisorio
+2816	posso accedere bonus
+2818	allacciamento
+2819	contratto
+2821	ottengo bonus idrico
+2823	contatto aqp
+2824	contatto aqp assistenza
+2825	arriva acqua posso fare
+2826	sapere acqua potabile
+2827	garantisco qualità acqua
+2828	richiede smaltimento acque reflue
+2829	reclamo
+2830	intende contratto uso occasionale
+2832	contratto
+2833	contratto
+2834	pressione acqua bassa
+2836	allacciamento
+2837	accede bonus idrico
+2838	voglio chiamare aqp
+2839	posso disdire contratto
+2840	posso pagare bonifico bancario
+2841	paga fattura
+2845	recuperare numero pratica bonus idrico smarrito
+2848	bonus idrico
+2849	accedere bonus idrico devo fare
+2858	accedere bonus
+2864	acquedotto pugliese pubblica amministrazione
+2876	costa allaciio acqua
+2885	entrare oline
+2886	variazione iban
+2895	bolletta
+2901	posso domiciliare bolletta
+2904	impianto multiplo
+2907	posso chiedere sopralluogo allaccio
+2909	deposito cauzionale
+2910	perchè devo pagare quota terremotati
+2916	sostituzione contatore
+2921	smarrito mav pagamento posso fare
+2923	deposito cauzionale funziona
+2924	innovazione
+2925	quota terremotati
+2928	quote terremotati
+2929	voltura
+2930	allacciamento fogna acqua
+2934	ricevere fattura on line
+2935	rimborso deposito cauzionale
+2938	trovo numero contratto
+2945	iter contratto
+2946	iter contratto
+2959	pressione barivecchia
+2967	chiede rateizzazione ammonta rata allaccio
+2968	conoscere consumi medi propria utenza
+2973	tempi risposta aqp richiesta allaccio
+2974	presentato richiesta distacco contatore condominiale allaccio ottiene risposta
+2988	contatore guasto
+2991	nonostante paghiamo regolarmente fatture fornitura viene sospesa colpa truffatori morosi possiamo fare
+2998	costo depurazione
+3003	bonus acqua scadenza
+3004	visualizza fatture
+3006	costa metro cubo
+3010	sospensione morosità
+3012	tempi allacciamento
+3022	posso verificare andato buon pagamento internet banking
+3030	aqp sospende erogazione idrica morosità condominio condomini morosi
+3041	posso conoscere data sottoscrizione contratto
+3047	sdoppiamento impianto
+3048	poca pressione rubinetti
+3049	posso comunicare avvenuto pagamento bollettino
+3055	cambio recapito bolletta
+3062	installare contatore singolo
+3076	dividere contatore condominiale
+3077	vivo casalvecchio puglia vorrei sapere durezza totale acqua °fr dati servono compilare libretti impianto voce obbligatorio grazie
+3085	contatore illeggibile tocca cambiarlo
+3088	modulo sepa sdd
+3096	incremento fornitura multipli
+3098	allaccio fogna
+3100	vorrei sospendere servizio erogazione acqua
+3115	pagare bolletta estero conto corrente postale
+3132	controllo pagamento fatture
+3149	disdire contratto
+3151	far analizzare acqua rubinetto
+3156	salve saputo caf potevo chiedere bonus idrico dato usufruisco bonus elettrico gas posso domanda
+3157	tariffe acqua
+3159	orari contact center
+3162	posso sapere acqua potabile
+3163	devo segnalare guasto mediam
+3165	controllare qualità acqua
+3169	costi subentro
+3187	pagare deposito cauzionale
+3211	può chiedere intervento tecnico aqp controllare serbatoio 4 piano carichi
+3213	sapere pratica
+3222	arriva acqua piani alti
+3228	contatore proprietà aqp fornisce acqua utenti moroso
+3236	condizione volturare
+3237	comunico lettura internet
+3241	bari centro arriva acqua serbatoio 4 piano
+3242	vorrei richiedere aumento pressione pomeridine dato mip appartamento 3°piano servito autoclave condominiale singolo serbatorio posto appartamento mattina 8 sera 22 pressione alimentare impianto chiedo chiarimenti farsi grazie
+3243	metro cubo
+3250	deposito cauzionale
+3253	comunicare pagamento
+3255	locale acqua fogna
+3277	previsioni ridistribuzione acqua galatina
+3292	cambiare rubinetto principale
+3331	pagare bolletta smarrimento bollettino acquedotto
+3334	fatta richiesta cambio recapito bolletta può averla cambiata
+3339	verifica pressione
+3343	impianto multiplo
+3351	fattura acconto posso richiedere rateizzazione
+3352	posso riprostinare impianto rimosso
+3353	richiedere copia fattura
+3359	effettua voltura
+3363	ammontano interessi mora
+3365	titolare contratto deceduto
+3374	qual orario ricevimento pubblico molfetta
+3389	domanda recesso
+3390	viene restituito deposito cauzionale
+3393	errata autolettura
+3408	trovo modulo recesso
+3413	posso inoltrare richiesta rimborso estero
+3414	posso verificare condizioni contrattuali
+3416	tariffe fogna
+3418	quota terromotati
+3419	pagare fatture estero
+3420	inoltrare reclamo
+3421	pagamento ritardo interessi mora
+3422	ricevuto fattura bollettini
+3423	qual numero fax inviare ricevuta pagamento
+3430	richiedo acqua
+3433	cambiare domiciliazione bancaria
+3443	calcola consumi
+3445	attivare contratto
+3457	diminuita erogazione acqua enrico toti bari
+3462	sportello online
+3466	fatture insolute viene chiusa acqua
+3482	dovendo calcoli divisione importo costo bolletta condominialevorrei sapere percentuali relative divisione ui1 tariffa agevolata tariffa base
+3486	procede richiesta
+3500	voglio sapere trovo numero contatore
+3523	richiedere contatore
+3535	autolettura
+3537	orari sportelli
+3542	incassare assegno intestato defunto cliente
+3549	recedere contratto fornitura idrica
+3554	vorrei allaccio
+3555	attivazione fattura on line
+3561	numero verde
+3562	significa tariffa agevolata tariffa base
+3563	utente cagnano varano mese manca erogazione acqua
+3587	sdoppiamento impianto condominiale
+3590	slyt payment
+3601	reclamo
+3605	eccedenza
+3607	esiste applicazione visualizzare bollette scaricarle pdf
+3608	potabile acqua
+3610	moduli
+3614	mancata acqua s cataldo bari
+3618	sbagliato autolettura
+3623	posso rateizzare fattura
+3625	effettuato doppio pagamento errato fare
+3626	pagato fattura risulta pagata
+3627	ricevuto bollettino fattura già pagata
+3628	posso pagare bonifico
+3634	attivo nuova fornitura
+3635	tocca prossima bolletta
+3645	cambiare intestatario fornitura
+3646	conseguiranno esami inerenti concorso aqp fatta entro 30/5
+3647	richiedere fornitura acqua
+3652	comunicare pagamento riesco fax
+3662	posso domiciliare tramite fax
+3668	bonus 2014
+3674	ricalcolo deposito cauzionale
+3682	analisi acqua volturino
+3685	cadenza viene emessa fattura aqp utenza
+3686	può palestra collegarsi impianto idrico fognari conndominio
+3690	registrare account dati richiesti
+3693	aumento portata
+3706	dimensioni nicchia acquedotto
+3709	rivolgersi mancanza acqua
+3714	deposito cauzionale paga anno
+3715	posso controllare consumi
+3730	potete visualizzare prossima bolletta
+3735	devo cambiare domiciliazione pagamento
+3737	moduli domiciliazione pagamenti
+3739	cambiato email bisogno nuova password posso fare
+3745	prendere appuntamento istallare contatore anzano
+3746	prendere appuntamento
+3750	possibile ricevere conguaglio antecedenti
+3754	viene applicata tariffa differente maniera retrodatata
+3757	distacco contratto 6 impegnativi riallaccia
+3763	perchè montegrappa bari rione carrassi acqua arriva sole giorno
+3765	variazione intestatario bolletta
+3780	possibile variare online conto domiciliazione
+3781	voltura contratto
+3842	durezza mmlo acqua bari
+3850	chiedere rimborso fattura
+3861	durezza acqua bari
+3872	2014 usufruito bonus idrico persona disabile moglie ritenevo automaticamente ripetesse bonus bonus elettrico sussiste motivo erogazione desidererei conoscere corretto ciò scritto grazie
+3875	salve ennesima ricevo bolletta morosità relativa periodo estivo bolletta successiva priva relativa fattura aggiungo bollette analisi estate 2014 altra estate 2015 recapitate gradirei spiegazioni grazie
+3906	tariffe aggiornate
+3970	pagano bollette
+3978	può pagare bolletta
+3981	aqp risponde
+3985	cambia password
+3994	deceduto titolare contratto devono regolare figlie successione divisione regolarizzare utenza contratta genitore defunto mantenere servizio idrico
+4002	fattura on line
+4011	spett aquedotto pugliese utente gradirei sapere modo informarmi sito riguardante perdita occulta grazie
+4012	inserito domanda bonus idrico ammessa ricevuto risposta
+4018	graduatoria fontanieri provincia foggia
+4022	posso anallizare acqua mia
+4024	riesco attivare bolletta on line né domiciliazione bancaria
+4025	passare acqua conto bancario
+4026	possibile obbligato scaricare fattura on-line poterla pagare già diverse volte fatture arrivate vengono consegnate chissà cestinate fate vobis
+4030	contratti vengono stipulati fabbricato singoli unita immobiliari
+4032	numero verde
+4038	evitare risoluzione contratto
+4041	devo duplicato fattura
+4052	utente crispiano ta acqua interrotto servizio
+4053	numero fax pagamento ritardo
+4077	possono rateizzare fatture
+4079	erogazione acqua
+4080	effettuare voltura contratto
+4090	ricevo lettera riconoscimento bonus idrico faccio
+4093	comunicare lettura
+4099	variazione conto domiciliazione
+4100	buongiorno vorrei sapere legale interrompere servizio indispensabile famiglie componenti problemi salute interruzione causata morosità condominiale alcune famiglie grazie
+4101	abitando condominio on visione bolletta domando costi fissi annui addebitati soprattutto ripartiti rate addebitati unica soluzione
+4102	pagano canoni fissi
+4104	serve iban pagare fattura
+4109	qr code
+4114	assistenza clienti
+4116	ricevuto fattura contenente conguaglio 2012/3/4 mai
+4119	occorre modifica contrattuale
+4120	determinare consumi sdoppiamento condominio
+4122	quote fisse
+4123	pagare quote fisse
+4126	festività natalizie possibile aumentare erogazione acqua
+4156	addebito bancario
+4162	ammonta deposito cauzionale
+4165	richiedere allaccio acquedotto
+4166	orari uffici gioia colle
+4186	duplicato bolletta
+4188	clienti aqp
+4189	numeri inviare autolettura
+4190	ultima fattura pervenuta
+4191	modulo sepa direct debit
+4193	raccomandata preavviso sospensione
+4194	posso cambiare domicilio bancario
+4202	pagamento fatture arretrate
+4203	attacco fogna acqua causa problemi economici riuscita pagare vorrei sapere solleciti può comoda rateizzazione distacco servizi grazie
+4204	titolare deceduto devono eredi
+4208	modulo revoca domiciliazione bancaria
+4212	bisogna voltura contratto aqp
+4213	leggere fatture
+4214	accredito bonus odrico
+4215	possibile sospendere contratto riattivarlo contatore costo
+4219	richiede deposito cauzionale tempi
+4220	tempi viene rimborsato credito
+4222	lettura
+4223	verifica letture consumi condominiali
+4224	impianto idrico esistente qual costo allaccio fogna
+4225	voce bolletta tariffa base tariffa agevolata
+4227	distacco contatore condominiale
+4228	salve dovrei installare contatori potrei sapere misure esatte casetta montare
+4230	estratto conto
+4231	dovendo effettuare pagamento alcune fatture arretrate 2015 datata risale aprile 2015 vorrei sapere posso utilizzare mav allegati fatture alternativa posso effettuare bonifico unico saldo 80 totale cc dovrei sapere iban grazie
+4232	spese contratto eredi
+4238	costa metro cubo
+4240	posso autolettura
+4247	devo pagare 193 mc consumo
+4249	cambio nominativo decesso
+4251	richiesta integrato
+4257	eseguire autolettura
+4258	formula acqua
+4260	utenti aqp
+4261	clienti
+4262	utenti clienti
+4263	aqp risponde
+4268	richiesta integrata idrico fognaria
+4271	costi voltura decesso
+4274	costa allaccio acqua fogna
+4276	bolletta scadenza gennaio 2016 trovato addebito consistente spiegato deposito cauzionale riferisce
+4277	orari uffici
+4280	vorrei ricevere fattura email faccio
+4282	inquilino finito locazione deposito cauzionale devo comportarmo restituito inquilino
+4283	rateizzare bolletta
+4286	num centralino aqp
+4289	costa cambiare contatore
+4292	uffici assistenza clienti
+4293	uffici commerciali
+4295	contestazione
+4301	condominio appartamenti conviene stipulare unico contratto tanti utenti
+4308	costa 1m cubo
+4322	contestare fatture
+4339	possibile domiciliazione bancaria
+4345	mando email certificate risponde mai
+4346	conoscere situazione pagamenti acqua condominio
+4349	richiesta allaccio
+4352	manca acqua fare
+4355	previste interruzioni fornitura comune galatina
+4359	provato registrarmi on line ma
+4362	immobile utilizzi titolo servitù allaccio rete fognaria già esistente immobile sottostante oneri smaltimento reflui automaticamente inseriti momento allaccio rete idrica
+4363	succede provvedo allacciarmi rete fognaria
+4364	pagare deposito cauzionale
+4365	subentro contratto
+4367	trovo modulo domiciliare fattura
+4368	attivazione nuova utenza
+4376	cambio nominativo
+4380	addebito fogna allaccio idrico servitù
+4382	cambio intestazione bolletta costruttore condomini
+4386	servizio clienti
+4388	indirizzo posta certificata
+4406	cambiato banca cambiare domiciliazione fatture
+4412	domiciliazione fare
+4417	costo subentro
+4442	situazione fatture
+4446	domiciliazione
+4466	controllo bollette
+4481	chiedo sospensione servizio momento vado riattivare servizio costi quali
+4489	costo allacciamento
+4493	utente muore bisogna fare
+4495	utente deceduto bisogna fare
+4499	intende procedere aqp concorso pubblico conduttori impianti depurazione foggia lecce considerato soprattutto foggia superato test
+4500	costi apertura presa stradale
+4502	utente deceduto fare
+4528	data verrà emessa quarta rata 2015
+4535	arriva bolletta
+4544	pratica
+4546	modello sepa
+4559	cessazione contrattuale devo fare
+4569	voltura decesso titolare
+4571	variazione dati fiscali
+4572	variazione titolare contratto decesso
+4573	subentro eredi
+4574	distacco condominio moroso iacp
+4585	prassi revoca domiciliazione fattura seguito vendita casa
+4595	evitare andare eccedenza
+4596	posso trovare modello sepa
+4597	posso trovare modello sepa-sdd
+4602	ripartizione bolletta condominiale
+4603	quota fissa
+4604	mille manca acqua stamattina perche
+4606	sepa sdd
+4608	posso volturare
+4609	ridurre eccedenza
+4639	quote fisse pagare modulo
+4662	contatori virgola ultimo numero
+4663	ricevere fattura online
+4667	mancato recapito bollette
+4668	farsi mandare nuova bolletta
+4680	intenzione prendere locazione immobile commerciale sito bari attualmente allacciato impianto condominiale risulta esista norma impone distacco condominio contatore acque nere
+4681	subentro diritto moduli contrattuali precedente cliente
+4682	vorrei cambiare indirizzo recapito fattura
+4683	cambio proprietà
+4684	subentri autorizzati
+4702	applicazione controllo bollette
+4709	allaccio fognatura subentro
+4714	costano 400 mc acqua
+4715	perchè poca pressione garantire acqua calda case
+4717	fontanina ghisa aqp
+4727	fideiussione deposito cauzionale
+4729	morosità
+4731	possibile unico contatore propritari
+4737	costo empo atteso allaccio idrico fognario nuova abitazione é possibile rateizzare somma totale
+4741	qual costo metro cubo
+4742	anziano proprietario domicilio presso figli lombardia ricevere fatture recapito
+4743	cpsta subentro
+4746	posso variare indirizzo recapito fatture
+4747	estratto conto fatture
+4748	cessazione contrattuale
+4759	mancanza acqua
+4767	attivita parrucchiere impianto può restare allacciato condominiale
+4769	costa metro cubo
+4770	referenti legale
+4771	coma calcolare consumo acqua
+4790	informazione istallare allacciamento contratto uso abitazione
+4807	fontanieri verranno assunti provincia foggia
+4822	procede effettuare domiciliazione importo fattura
+4825	registrazioni online
+4831	deposito cauzionale
+4836	uso pubblico
+4844	obbligo allaccio fogna
+4855	vorrei sapere possibile pagare quota consumo fattura condominiale grazie
+4856	potrei parlare qualcuno
+4863	richiesta installazione contatore
+4867	fatturazioni società rilievo consuntivazione consumi condominiali
+4872	bisogno modulo sepa addebito conto
+4883	vorrei sapere inquilino posso accedere visione fatture emesse pagamento verifica avvenuto pagamento effettua amministratore condominio anticipatamente risposta
+4900	vorrei ricevere fattura elettronica fare
+4903	sdoppiamento idrico contatore condominiale
+4904	sdoppiamento idrico contatore condominiale morosità condominiale
+4918	devo voltura
+4934	calcolo tariffe
+4980	sdoppiamento idrico allaccio contatore condominiale
+4986	riesco trovare codice contatore fattura
+5014	ufficio aqp santeramo colle 70029
+5022	proviene acqua
+5028	allacciamento rete fognante s pietro vernotico br devo rivolgermi
+5033	acqua monte sant angelo
+5046	allaccio integrato
+5047	effettuo voltura contrattuale
+5063	volevo sapere ridotta pressione acqua comune putignano ba
+5070	presenza perdita interna accertata consumo idrico elevato registrato misuratore possibile recuperare quote relative variabile depurazione fognatura
+5072	appartamento verificata rottura tubazione alimentazione bagno immediatamente rilevata determinato consumo anomalo 800 mc acqua possibile consumo pagare quota relativa disinquinamento
+5085	bisogno aiuto perdita acqua
+5087	disdire utenza
+5089	passare rete condominiale rete singola
+5092	registrazione online buon fine
+5098	posso domiciliazione bancaria pagare bollette grazie
+5103	richiedere spostamento contatore
+5116	subentrato contratto appartamento moroso vorrei sapere gestira voltura
+5122	arriva acqua devo contattare
+5129	disciplina deposito cauzionale
+5156	possibile eventualmente reclamo mancato rispetto tempi eseguire allaccio rete fognaria
+5165	posso multiplo
+5166	lettura contatore online
+5167	posso bonus
+5168	bolletta online
+5174	posso copia bollettino pagare
+5179	locali uso commerciale possono utilizzare fogna consortile condominiale devono necessariamente autonomo contatore acqua attacco indipendente fogna domanda nin esiste risposta nrl database grazie
+5183	togliere bolletta conto corrente bisogna fare
+5184	chiedere verifica contatore
+5191	telelettura attiva
+5197	bolletta acqua
+5213	vorrei e-mail domande riguardo portare impianto allaccio acqua san pietro bevagna
+5217	concorsi quando
+5218	cambio intestazione
+5222	fattura subentro
+5225	acqua modugno
+5226	utente residente anzano puglia consumo annuo 2015 m cubi 3 pagherà quanto
+5230	deposito cauzionale vie applicato
+5237	pagare bolletta rateizzata
+5244	perchè arriva acqua 5 piano
+5253	sportello comunale
+5255	rimborso credito erede
+5264	posso aumentare impegnativa giornaliera
+5278	costruito acquedotto
+5279	distanza condotta aqp posso realizzare fabbricato
+5287	pagare fatture bancomat
+5291	tempi allacciamento rete fognaria comune taurisano le
+5292	tempi allacciamento rete fognaria
+5293	cambiato codice iban devo fare
+5295	numero verde chiamare cellulari
+5306	devo richiedere distacco fornitura condominiale
+5310	é possibile sapere cifre costo mora
+5327	ritardo pagamento mora
+5329	acqua colore arancione
+5330	domiciliare bolletta pagare tramite conto banca
+5331	modulo domiciliare bolletta banca
+5337	ammonta eccedenza
+5338	costano 200 litri acqua
+5359	vero acquedotto garntisce pressione minima livello stradale perchè alcune sufficiente pressione perchè acqua giunga altezza metri
+5362	vorrei e-mail domande riguardo portare impiantoallaccio acqua san pietro bevagna
+5363	modello domiciliazione
+5376	effettuare recesso
+5386	devo cambiare rid
+5389	modifica contatore condominiale
+5393	rettifica intestazione assegno
+5397	autocertificazione fogna
+5402	costa servizio idrico fognario consumo mc 0
+5404	letture effettuano anno
+5405	bolletta cifra x diritti fissi
+5411	bolletta online email
+5419	sapere richiesta cambio indirizzo bolletta fatta online andata buon fine
+5422	buonasera vorrei sapere completerà fognatura zona padula bianca gallipoli grazie
+5427	costi attivazione avviso forti consumi
+5437	buongiorno ente pubblico vorremmo sapere rendere celeri agevoli pagamenti fatture esiste codice iban effettuare bonifico grazie
+5452	salve vorrei sapere pagamenti risulta ultima bolletta ricevuta fattura pagata
+5460	crdo ricevuto fattura sapere eventualmente smarriota
+5461	richiesta copia ultima fattuira
+5463	cambiare intestatario eliminare impegnativa occorre costa
+5466	pagato online bolletta mettendo codice mav sapere arrivato esequito esce specifica ente inviato pagamento
+5475	ricevuto fattura
+5483	acqua piazza giacomo favretto brindisi
+5490	salve sportello ferro protegge intero contatore chiave chiusura completamente arrugginito cadere procedura sotituzione
+5495	cambiare password
+5503	casi posso richiedere allaciamento acqua
+5504	cambio proprietà
+5508	numero fax inviare cambio residenza
+5515	elenco bollette pagate 2015
+5518	costo pagare on line
+5520	chiedere annullamento fattura
+5521	trovo modulo subentro causa decesso
+5526	posso richiedere rateizzazione allaccio
+5532	devo togliere impegnativa devo rivolgermi
+5536	salve vorrei sapere termine perentorio voltura causa mortis contratto fornitura privato
+5566	potrò fate autolettura app
+5567	modello domanda allaciamento
+5569	contratto contributo somministrazione servizio
+5573	domiciliare bollette
+5575	mancherà acqua
+5578	spostamento contatore
+5597	morte intestatario
+5599	cambiare password accesso home
+5624	numero fax dobbiamo inviare ricevuta bolletta già pagata
+5630	decesso intestatario
+5637	lettura consumo
+5642	impianto strada privata singoli contatori divisionali possiamo renderci indipendenti stipulando contratti indipendenti separarci morosi
+5656	costa chiudere contatore
+5665	seconda casa
+5666	contatore sottrazione
+5671	costa cessazione contratto
+5672	quota fissa condomino abita pagarla stesso
+5676	modulo sepa
+5681	vorrei comunicare codice iban addebitare bollette
+5683	potete indicarmi modalità richiesta allaccio on line grazie
+5696	possibile spostare contatore dellacqua pagato nuovamente allacciamento
+5702	prevista interruzione acqua
+5703	vorrei sapere posso ottenere utenza privata residente condominio pagano acqua
+5708	spostamento contatore acqua esterno casa
+5710	deposito cauzionale dovuto
+5728	allacciamento acqua
+5752	modulo rientestazzione assegno
+5758	sapere cambio indirizzo online andato buon fine
+5767	sapere cambio domicilio avvenuto
+5769	nn paga deposito cauzionale
+5771	vorrei sapere linea acquedotto indipendente spiego intestataria contatore serve 4 condomini vorrei intestarmi contatore individuale possibile condizioni gradirei sollecita risposta distinti saluti
+5780	proviene acqua acquedotto
+5787	vorrei scaricare modulo domiciliazione bancaria bolletta sito trovo
+5788	distacco locali commerciali contratto condominiale
+5792	procedura domiciliazione bancaria
+5794	informazioni contratto
+5797	mancherà acqua viale aldo moro spinazzola erogazione bassissima grazie
+5798	numero contatore trovo scritto
+5800	posso informazioni mancanza acqua
+5801	devo copia fattura
+5803	posso rateizzare pagamento fattura
+5804	caratteristiche acqua
+5805	acqua acquedotto potabile
+5806	manca acqua mia
+5808	arriva acqua mia
+5820	tariffe iva
+5824	subentro decesso genitore
+5834	seguito verifica effettuara tecnico richiesta maggioranza condomini attraverso delibera assembleare riscontrate irregolarità contatori valvola spostata monte desidererei sapere azioni amministratore società dovrebbero intraprendere interesse condominio tutto
+5842	bollette viene chiusa acqua
+5849	modalità distaccamento servizio idrico
+5851	tariffe acquedotto
+5853	associazione può intestare contratto
+5854	vorrei istruzioni richiesta distacco allacciamento idrico
+5898	cancellarsi sito
+5900	perequazioni
+5915	attività commerciali devono contatore ioè autonomo condominio ciò avviene succede richiesta comunque inoltrata proprietario locale conduttore attività gazie
+5917	condomino posso pretendere locali condominiali attività commerciali staccate contatore condominiale
+5934	devo gestire acque reflue piazzale
+5936	posso rateizzare pagamento bolletta
+5938	tempi attivazione contatore
+5940	tombino fogna puzza
+5941	tombino fuoriescono scarafaggi
+5943	pozzo nero fare
+5945	possibile conoscere qualità acqua
+5946	acqua posso chiedere informazioni
+5947	bloccato contatore
+5948	arriva bolletta
+5950	calcola deposito cauzionale
+5952	viene restituito deposito cauzionale
+5953	condomino paga
+5954	posso verificare capocondomino pagato fatture
+5956	posso sicuro pagato
+5957	posso ricevere fatture email
+5960	posso conservare acqua
+5961	decesso titolare contratto
+5962	posso bloccare contatore lunga assenza
+5963	acqua potabile
+5970	titolare contratto morto
+5975	esiste possibilità staccarsi utenza morosa condominiale contatore sito condominio
+5992	passare contratto condominiale individuale
+5995	utente causa bassissima pressione acqua abitazione costretto impianto autoclave cisterna raccolta acqua costi maggiorati energia elettrica soldi spesi riparazione guasti impianto pulizia cisterna Perché devo spendere soldi aqp consumi conguagli servizio soddisfacente
+5998	variazione dati fiscali costi
+6003	comunicare pagamento fattura
+6014	salve vivo condominio molti condomini morosi spesso viene sigillato addirittura asportato contatore acqua posso allacciare appartamento autonomamente contatore costa grazie
+6024	dallla data scadenza bolletta scattano interessi mora ammontano grazie
+6026	sede foggia telefono
+6029	richiesta preventivo allaccio idrico
+6034	richiedere rimborso
+6037	rettifiche fattura
+6044	richiedere copia fattura
+6046	richiedere spostamento contatore
+6055	posso sostituire contatore
+6061	richiedere subentro
+6069	condomino posso sapere amministratore pagato bollette
+6074	posso rateizzare pagamento bolletta
+6076	fax ritardo pagamento
+6081	chiedere spostamento contatore
+6092	posso verificare capocondomino pagato fatture
+6112	utenti fattura 2 marzo c.a. addebitata quota deposito cauzionale pari euro 11,04 laddove già versato deposito cauzionale euro 145,34 chiediamo nuova quota effettua ricalcolo annuale deposito
+6113	arriva fattura cartacea
+6114	selezioni bando concorsi
+6130	subentro
+6147	bolletta voce addebitiaccrediti diversi riferisce
+6169	metodi cessazione fornitura
+6191	prossima lettura reale
+6195	estratto conto fattura
+6243	morte proprietario
+6244	posso staccarmi condominio
+6249	dovendo impostare lavastoglie qual valore durezza acqua taranto grazie
+6251	modello richiesta domiciliazione bollette
+6252	volte arriva bolletta acqua andria
+6254	spreco acqua
+6255	buongiorno poter cambio proprietario immobile voltura documenti servono qual ufficio competenza castellana grotte razie
+6265	effettua voltura
+6279	conoscere pressione
+6289	può registrare sito acquedotto online
+6309	perchè pressione acqua bassa
+6313	viene allacciato acquedotto
